@@ -1,0 +1,1 @@
+{"author":"golden-condor-22","description":"The funniest one-line farewell a phone could say as its battery hits 1 percent.","license":"MIT","main":"main.ts","name":"famous-last-words-at-1-percent-gc22","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
